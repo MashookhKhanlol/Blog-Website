@@ -30,10 +30,10 @@ Follow these steps to set up Vespera locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vespera.git
+git clone https://github.com/MashookhKhanlol/Blog-Website.git
 
 # Navigate to the project directory
-cd vespera
+cd Blog-website
 
 # Install dependencies
 npm install
