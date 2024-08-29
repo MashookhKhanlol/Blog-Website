@@ -19,11 +19,11 @@ Vespera is a blog website designed to enhance user engagement and streamline con
 
 ## Technologies Used
 
-- **[React.js](https://reactjs.org/):** A JavaScript library for building user interfaces.
-- **[Node.js](https://nodejs.org/):** A JavaScript runtime built on Chrome's V8 JavaScript engine.
-- **[Appwrite](https://appwrite.io/):** A backend server for web, mobile, and Flutter developers.
-- **[TinyMCE](https://www.tiny.cloud/):** A rich text editor that provides an easy way to format content.
-- **[Tailwind CSS](https://tailwindcss.com/):** A utility-first CSS framework for creating responsive designs.
+- **[React.js](https://reactjs.org/)
+- **[Node.js](https://nodejs.org/)
+- **[Appwrite](https://appwrite.io/)
+- **[TinyMCE](https://www.tiny.cloud/)
+- **[Tailwind CSS](https://tailwindcss.com/)
 
 ![image](https://github.com/user-attachments/assets/2f5ea1c2-5ea0-40d1-ab94-aa565067ff8c)
 
