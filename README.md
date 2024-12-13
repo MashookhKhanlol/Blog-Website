@@ -22,7 +22,8 @@ Vespera is a blog website designed to enhance user engagement and streamline con
 - [TinyMCE](https://www.tiny.cloud/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-![image](https://github.com/user-attachments/assets/2f5ea1c2-5ea0-40d1-ab94-aa565067ff8c)
+
+![image](https://github.com/user-attachments/assets/bf57f91c-9221-436e-8899-2bffb156e19d)
 
 ## Installation
 
